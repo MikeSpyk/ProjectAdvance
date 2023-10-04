@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ItemsStorable xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="urn:ehd/001">
+	 <!-- ItemType: Default = 0, WeaponDefault = 1-->
+
+	<StorableItem StorableItemName="StorableItem_Water" ID="0" ItemType="2" GUIIconIndex ="0" WorldModelIndex="0" DropModelIndex="0" StackSize ="1" LootRarity = "5">
+		<Language name="English">
+			<DisplayName Text="Water"/>
+			<Description Text=""/>
+		</Language>
+	</StorableItem>
+
+	<StorableItem StorableItemName="StorableItem_Apple" ID="1" ItemType="2" GUIIconIndex ="1" WorldModelIndex="0" DropModelIndex="1" StackSize ="1" LootRarity = "5">
+		<Language name="English">
+			<DisplayName Text="Apple"/>
+			<Description Text=""/>
+		</Language>
+	</StorableItem>
+
+	<StorableItem StorableItemName="StorableItem_CheapSpear" ID="2" ItemType="1" GUIIconIndex ="2" WorldModelIndex="0" DropModelIndex="2" StackSize ="1" LootRarity = "5">
+		<Language name="English">
+			<DisplayName Text="Cheap spear"/>
+			<Description Text="a poor quality spear"/>
+		</Language>
+		<RandomAttributeMinMax Name="physicalDamage" Chance="100%" MinValue ="1" MaxValue ="10"/>
+		<RandomAttributeMinMax Name="fireDamage" Chance="20%" MinValue ="1" MaxValue ="10"/>
+		<RandomAttributeMinMax Name="iceDamage" Chance="20%" MinValue ="1" MaxValue ="10"/>
+		<RandomAttributeMinMax Name="lightningDamage" Chance="20%" MinValue ="1" MaxValue ="10"/>
+	</StorableItem>
+
+	<StorableItem StorableItemName="StorableItem_HighQualitySpear" ID="3" ItemType="1" GUIIconIndex ="3" WorldModelIndex="1" DropModelIndex="3" StackSize ="1" LootRarity = "5">
+		<Language name="English">
+			<DisplayName Text="High quality spear"/>
+			<Description Text="a high quality spear"/>
+		</Language>
+		<RandomAttributeMinMax Name="physicalDamage" Chance="100%" MinValue ="10" MaxValue ="20"/>
+		<RandomAttributeMinMax Name="fireDamage" Chance="20%" MinValue ="10" MaxValue ="20"/>
+		<RandomAttributeMinMax Name="iceDamage" Chance="20%" MinValue ="10" MaxValue ="20"/>
+		<RandomAttributeMinMax Name="lightningDamage" Chance="20%" MinValue ="10" MaxValue ="20"/>
+	</StorableItem>
+
+	<StorableItem StorableItemName="StorableItem_Stone" ID="4" ItemType="0" GUIIconIndex ="4" WorldModelIndex="0" DropModelIndex="1" StackSize ="1" LootRarity = "5">
+		<Language name="English">
+			<DisplayName Text="Stone"/>
+			<Description Text=""/>
+		</Language>
+	</StorableItem>
+
+	<StorableItem StorableItemName="StorableItem_Wood" ID="5" ItemType="0" GUIIconIndex ="5" WorldModelIndex="0" DropModelIndex="1" StackSize ="1" LootRarity = "5">
+		<Language name="English">
+			<DisplayName Text="Wood"/>
+			<Description Text=""/>
+		</Language>
+	</StorableItem>
+	
+</ItemsStorable>

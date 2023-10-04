@@ -1,0 +1,261 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Troll
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Box001
+    m_Weight: 0
+  - m_Path: cave_troll_
+    m_Weight: 0
+  - m_Path: cave_troll_LArmIKTarget
+    m_Weight: 0
+  - m_Path: cave_troll_LLegPlatform
+    m_Weight: 0
+  - m_Path: cave_troll_RArmIKTarget
+    m_Weight: 0
+  - m_Path: cave_troll_RLegPlatform
+    m_Weight: 0
+  - m_Path: cave_troll_Transform
+    m_Weight: 0
+  - m_Path: cave_troll_Transform/cave_troll_Hub001
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Hub001Bone001
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Hub001Bone001/cave_troll_Hub001Bone001Bone001
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Hub001Bone001/cave_troll_Hub001Bone001Bone001/cave_troll_Hub001Bone001Bone001Bone001
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Hub001Bone002
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Hub001Bone002/cave_troll_Hub001Bone001Bone002
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Hub001Bone002/cave_troll_Hub001Bone001Bone002/cave_troll_Hub001Bone001Bone001Bone002
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_LLeg1
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_LLeg1/cave_troll_LLeg2
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_LLeg1/cave_troll_LLeg2/cave_troll_LLegAnkle
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_LLeg1/cave_troll_LLeg2/cave_troll_LLegAnkle/cave_troll_LLegDigit11
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_LLeg1/cave_troll_LLeg2/cave_troll_LLegAnkle/cave_troll_LLegDigit11/cave_troll_LLegDigit12
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_LLeg1/cave_troll_LLeg2/cave_troll_LLegAnkle/cave_troll_LLegDigit21
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_LLeg1/cave_troll_LLeg2/cave_troll_LLegAnkle/cave_troll_LLegDigit21/cave_troll_LLegDigit22
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_LLeg1/cave_troll_LLeg2/cave_troll_LLegAnkle/cave_troll_LLegDigit31
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_LLeg1/cave_troll_LLeg2/cave_troll_LLegAnkle/cave_troll_LLegDigit31/cave_troll_LLegDigit32
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_LLeg1/cave_troll_LLeg2/cave_troll_LLegAnkle/cave_troll_LLegDigit41
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_LLeg1/cave_troll_LLeg2/cave_troll_LLegAnkle/cave_troll_LLegDigit41/cave_troll_LLegDigit42
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_RLeg1
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_RLeg1/cave_troll_RLeg2
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_RLeg1/cave_troll_RLeg2/cave_troll_RLegAnkle
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_RLeg1/cave_troll_RLeg2/cave_troll_RLegAnkle/cave_troll_RLegDigit11
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_RLeg1/cave_troll_RLeg2/cave_troll_RLegAnkle/cave_troll_RLegDigit11/cave_troll_RLegDigit12
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_RLeg1/cave_troll_RLeg2/cave_troll_RLegAnkle/cave_troll_RLegDigit21
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_RLeg1/cave_troll_RLeg2/cave_troll_RLegAnkle/cave_troll_RLegDigit21/cave_troll_RLegDigit22
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_RLeg1/cave_troll_RLeg2/cave_troll_RLegAnkle/cave_troll_RLegDigit31
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_RLeg1/cave_troll_RLeg2/cave_troll_RLegAnkle/cave_troll_RLegDigit31/cave_troll_RLegDigit32
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_RLeg1/cave_troll_RLeg2/cave_troll_RLegAnkle/cave_troll_RLegDigit41
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_RLeg1/cave_troll_RLeg2/cave_troll_RLegAnkle/cave_troll_RLegDigit41/cave_troll_RLegDigit42
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_LArmCollarbone
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_LArmCollarbone/cave_troll_LArm1
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_LArmCollarbone/cave_troll_LArm1/
+      1
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_LArmCollarbone/cave_troll_LArm1/
+      1/cave_troll_LArm22
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_LArmCollarbone/cave_troll_LArm1/
+      1/cave_troll_LArm22/cave_troll_LArmPalm
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_LArmCollarbone/cave_troll_LArm1/
+      1/cave_troll_LArm22/cave_troll_LArmPalm/cave_troll_LArmDigit11
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_LArmCollarbone/cave_troll_LArm1/
+      1/cave_troll_LArm22/cave_troll_LArmPalm/cave_troll_LArmDigit11/cave_troll_LArmDigit12
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_LArmCollarbone/cave_troll_LArm1/
+      1/cave_troll_LArm22/cave_troll_LArmPalm/cave_troll_LArmDigit11/cave_troll_LArmDigit12/cave_troll_LArmDigit13
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_LArmCollarbone/cave_troll_LArm1/
+      1/cave_troll_LArm22/cave_troll_LArmPalm/cave_troll_LArmDigit21
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_LArmCollarbone/cave_troll_LArm1/
+      1/cave_troll_LArm22/cave_troll_LArmPalm/cave_troll_LArmDigit21/cave_troll_LArmDigit22
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_LArmCollarbone/cave_troll_LArm1/
+      1/cave_troll_LArm22/cave_troll_LArmPalm/cave_troll_LArmDigit21/cave_troll_LArmDigit22/cave_troll_LArmDigit23
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_LArmCollarbone/cave_troll_LArm1/
+      1/cave_troll_LArm22/cave_troll_LArmPalm/cave_troll_LArmDigit31
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_LArmCollarbone/cave_troll_LArm1/
+      1/cave_troll_LArm22/cave_troll_LArmPalm/cave_troll_LArmDigit31/cave_troll_LArmDigit32
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_LArmCollarbone/cave_troll_LArm1/
+      1/cave_troll_LArm22/cave_troll_LArmPalm/cave_troll_LArmDigit31/cave_troll_LArmDigit32/cave_troll_LArmDigit33
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_LArmCollarbone/cave_troll_LArm1/
+      1/cave_troll_LArm22/cave_troll_LArmPalm/cave_troll_LArmDigit41
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_LArmCollarbone/cave_troll_LArm1/
+      1/cave_troll_LArm22/cave_troll_LArmPalm/cave_troll_LArmDigit41/cave_troll_LArmDigit42
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_LArmCollarbone/cave_troll_LArm1/
+      1/cave_troll_LArm22/cave_troll_LArmPalm/cave_troll_LArmDigit41/cave_troll_LArmDigit42/cave_troll_LArmDigit43
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_RArmCollarbone
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_RArmCollarbone/cave_troll_RArm1
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_RArmCollarbone/cave_troll_RArm1/cave_troll_RArm21
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_RArmCollarbone/cave_troll_RArm1/cave_troll_RArm21/cave_troll_RArm22
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_RArmCollarbone/cave_troll_RArm1/cave_troll_RArm21/cave_troll_RArm22/cave_troll_RArmPalm
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_RArmCollarbone/cave_troll_RArm1/cave_troll_RArm21/cave_troll_RArm22/cave_troll_RArmPalm/cave_troll_RArmDigit11
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_RArmCollarbone/cave_troll_RArm1/cave_troll_RArm21/cave_troll_RArm22/cave_troll_RArmPalm/cave_troll_RArmDigit11/cave_troll_RArmDigit12
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_RArmCollarbone/cave_troll_RArm1/cave_troll_RArm21/cave_troll_RArm22/cave_troll_RArmPalm/cave_troll_RArmDigit11/cave_troll_RArmDigit12/cave_troll_RArmDigit13
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_RArmCollarbone/cave_troll_RArm1/cave_troll_RArm21/cave_troll_RArm22/cave_troll_RArmPalm/cave_troll_RArmDigit21
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_RArmCollarbone/cave_troll_RArm1/cave_troll_RArm21/cave_troll_RArm22/cave_troll_RArmPalm/cave_troll_RArmDigit21/cave_troll_RArmDigit22
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_RArmCollarbone/cave_troll_RArm1/cave_troll_RArm21/cave_troll_RArm22/cave_troll_RArmPalm/cave_troll_RArmDigit21/cave_troll_RArmDigit22/cave_troll_RArmDigit23
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_RArmCollarbone/cave_troll_RArm1/cave_troll_RArm21/cave_troll_RArm22/cave_troll_RArmPalm/cave_troll_RArmDigit31
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_RArmCollarbone/cave_troll_RArm1/cave_troll_RArm21/cave_troll_RArm22/cave_troll_RArmPalm/cave_troll_RArmDigit31/cave_troll_RArmDigit32
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_RArmCollarbone/cave_troll_RArm1/cave_troll_RArm21/cave_troll_RArm22/cave_troll_RArmPalm/cave_troll_RArmDigit31/cave_troll_RArmDigit32/cave_troll_RArmDigit33
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_RArmCollarbone/cave_troll_RArm1/cave_troll_RArm21/cave_troll_RArm22/cave_troll_RArmPalm/cave_troll_RArmDigit41
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_RArmCollarbone/cave_troll_RArm1/cave_troll_RArm21/cave_troll_RArm22/cave_troll_RArmPalm/cave_troll_RArmDigit41/cave_troll_RArmDigit42
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_RArmCollarbone/cave_troll_RArm1/cave_troll_RArm21/cave_troll_RArm22/cave_troll_RArmPalm/cave_troll_RArmDigit41/cave_troll_RArmDigit42/cave_troll_RArmDigit43
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_RArmCollarbone/cave_troll_RArm1/cave_troll_RArm21/cave_troll_RArm22/cave_troll_RArmPalm/mace_low
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_Spine1
+      1
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_Spine1
+      1/cave_troll_Spine2 1
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_Spine1
+      1/cave_troll_Spine2 1/cave_troll_Hub003_dnu
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_Spine1
+      1/cave_troll_Spine2 1/cave_troll_Hub003_dnu/cave_troll_Hub003Bone001
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_Spine1
+      1/cave_troll_Spine2 1/cave_troll_Hub003_dnu/cave_troll_Hub003Bone001/cave_troll_Hub003Bone001Bone001
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_Spine1
+      1/cave_troll_Spine2 1/cave_troll_Hub003_dnu/cave_troll_Hub003Bone001/cave_troll_Hub003Bone001Bone001/cave_troll_Hub003Bone001Bone013
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_Spine1
+      1/cave_troll_Spine2 1/cave_troll_Hub003_dnu/cave_troll_Hub003Bone001/cave_troll_Hub003Bone001Bone001/cave_troll_Hub003Bone001Bone014
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_Spine1
+      1/cave_troll_Spine2 1/cave_troll_Hub003_dnu/cave_troll_Hub003Bone001/cave_troll_Hub003Bone001Bone002
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_Spine1
+      1/cave_troll_Spine2 1/cave_troll_Hub003_dnu/cave_troll_Hub003Bone001/cave_troll_Hub003Bone001Bone003
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_Spine1
+      1/cave_troll_Spine2 1/cave_troll_Hub003_dnu/cave_troll_Hub003Bone001/cave_troll_Hub003Bone001Bone004
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_Spine1
+      1/cave_troll_Spine2 1/cave_troll_Hub003_dnu/cave_troll_Hub003Bone001/cave_troll_Hub003Bone001Bone005
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_Spine1
+      1/cave_troll_Spine2 1/cave_troll_Hub003_dnu/cave_troll_Hub003Bone001/cave_troll_Hub003Bone001Bone006
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_Spine1
+      1/cave_troll_Spine2 1/cave_troll_Hub003_dnu/cave_troll_Hub003Bone001/cave_troll_Hub003Bone001Bone007
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_Spine1
+      1/cave_troll_Spine2 1/cave_troll_Hub003_dnu/cave_troll_Hub003Bone001/cave_troll_Hub003Bone001Bone008
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_Spine1
+      1/cave_troll_Spine2 1/cave_troll_Hub003_dnu/cave_troll_Hub003Bone001/cave_troll_Hub003Bone001Bone009
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_Spine1
+      1/cave_troll_Spine2 1/cave_troll_Hub003_dnu/cave_troll_Hub003Bone001/cave_troll_Hub003Bone001Bone010
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_Spine1
+      1/cave_troll_Spine2 1/cave_troll_Hub003_dnu/cave_troll_Hub003Bone001/cave_troll_Hub003Bone001Bone011
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_Spine1
+      1/cave_troll_Spine2 1/cave_troll_Hub003_dnu/cave_troll_Hub003Bone001/cave_troll_Hub003Bone001Bone012
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_Spine1
+      1/cave_troll_Spine2 1/cave_troll_Hub003_dnu/cave_troll_Hub003Bone001/cave_troll_Hub003Bone001Bone015
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_Spine1
+      1/cave_troll_Spine2 1/cave_troll_Hub003_dnu/cave_troll_Hub003Bone001/cave_troll_Hub003Bone001Bone016
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_Spine1
+      1/cave_troll_Spine2 1/cave_troll_Hub003_dnu/cave_troll_Hub003Bone001/cave_troll_Hub003Bone001Bone017
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_Spine1
+      1/cave_troll_Spine2 1/cave_troll_Hub003_dnu/cave_troll_Hub003Bone001/cave_troll_Hub003Bone001Bone018
+    m_Weight: 1
+  - m_Path: cave_troll_Transform/cave_troll_Hub001/cave_troll_Spine1/cave_troll_Spine2/cave_troll_Spine3/cave_troll_Hub002/cave_troll_Spine1
+      1/cave_troll_Spine2 1/cave_troll_Hub003_dnu/cave_troll_Hub003Bone001/cave_troll_Hub003Bone001Bone019
+    m_Weight: 1
+  - m_Path: eyes_low
+    m_Weight: 0
+  - m_Path: lower_teeth_low
+    m_Weight: 0
+  - m_Path: Point001
+    m_Weight: 0
+  - m_Path: second_handle
+    m_Weight: 0
+  - m_Path: tanga_low
+    m_Weight: 0
+  - m_Path: troll_body_low
+    m_Weight: 0
+  - m_Path: upper_teeth_low
+    m_Weight: 0
